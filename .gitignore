@@ -1,0 +1,24 @@
+# Frontend
+node_modules/
+dist/
+build/
+
+# Backend
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+env/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.idea/
+.vscode/
+*.egg-info/
+.idea/
+.vscode/
